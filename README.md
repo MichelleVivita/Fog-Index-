@@ -1,5 +1,6 @@
 # Fog-Index-
 
+In linguistics, the Gunning fog index is a readability test for English writing. The index estimates the years of formal education a person needs to understand the text on the first reading. 
 
 How to calculate Fog index
 
